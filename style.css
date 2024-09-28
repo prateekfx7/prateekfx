@@ -103,12 +103,12 @@ html,body{
         align-items: center;
         justify-content: space-between;
         width: 100%;
-        padding: 10px 20px;
+        padding: 10px 10px;
     }
     .nav i{
         margin-top: 3px;
         font-size: 20px;
-        margin-right: 40px;
+        margin-right: 10px;
     }
 
     .nav a{
